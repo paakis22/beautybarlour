@@ -2,7 +2,7 @@
   "name": "beautyapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://paakis22.github.io/beautyapp",
+  "homepage": "http://paakis22.github.io/beautybarlour",
   "type": "module",
   "scripts": {
     "dev": "vite",
