@@ -1,3 +1,12 @@
+import haircut from '../assets/haircut.png';
+import im5 from '../assets/im5.jpg';
+import im7 from '../assets/im7.jpg';
+import pedu from '../assets/pedu.png';
+import make from '../assets/make.jpg';
+import eye from '../assets/eye.png';
+import face from '../assets/face.jpg';
+import haircolour from '../assets/haircolour.png';
+
 export const services = [
 	{
 		id: 'haircut',
@@ -5,7 +14,7 @@ export const services = [
 		duration: '45 min',
 		price: 1200,
 		desc: 'Trendy cuts and professional styling.',
-		img: 'src/assets/haircut.png',
+		img: haircut,
 	},
 	{
 		id: 'facial',
@@ -13,7 +22,7 @@ export const services = [
 		duration: '60 min',
 		price: 2500,
 		desc: 'Deep cleansing facial for glowing skin.',
-		img: 'src/assets/im5.jpg',
+		img: im5,
 	},
 	{
 		id: 'manicure',
@@ -21,7 +30,7 @@ export const services = [
 		duration: '30 min',
 		price: 800,
 		desc: 'Nails shaping, scrub and polish.',
-		img: 'src/assets/im7.jpg',
+		img: im7,
 	},
 	{
 		id: 'pedicure',
@@ -29,7 +38,7 @@ export const services = [
 		duration: '45 min',
 		price: 1000,
 		desc: 'Relaxing foot massage and nail care.',
-		img: 'src/assets/pedu.png',
+		img: pedu,
 	},
 	{
 		id: 'makeup',
@@ -37,7 +46,7 @@ export const services = [
 		duration: '60 min',
 		price: 2000,
 		desc: 'Bridal and party makeup with premium products.',
-		img: 'src/assets/make.jpg',
+		img: make,
 	},
 	{
 		id: 'threading',
@@ -45,22 +54,22 @@ export const services = [
 		duration: '30 min',
 		price: 500,
 		desc: 'Hair removal with threading and waxing services.',
-		img: 'src/assets/eye.png',
+		img: eye,
 	},
 	{
-		id: 'facial',
-		title: 'golden facial',
+		id: 'goldenfacial',
+		title: 'Golden Facial',
 		duration: '60 min',
 		price: 1500,
 		desc: 'Soothing full body massage to relax and rejuvenate.',
-		img: 'src/assets/face.jpg',
+		img: face,
 	},
 	{
 		id: 'hairtreatment',
-		title: 'Hair colour',
+		title: 'Hair Colour',
 		duration: '90 min',
 		price: 2200,
 		desc: 'Protein and keratin treatment for shiny, healthy hair.',
-		img: 'src/assets/haircolour.png',
+		img: haircolour,
 	},
 ];

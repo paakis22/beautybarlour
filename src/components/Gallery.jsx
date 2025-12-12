@@ -1,13 +1,18 @@
 
 import React from 'react'
+import B1 from '../assets/B1.jpg'
+import B2 from '../assets/B2.jpg'
+import B3 from '../assets/B3.jpg'
+import B4 from '../assets/B4.jpg'
+import b5 from '../assets/b5.jpg'
 
 export const images = [
 	// Makeup service related images
-	'src/assets/b1.jpg', // Makeup application
-	'src/assets/b2.jpg', // Bridal makeup
-	'src/assets/b3.jpg', // Eye makeup
-	'src/assets/b4.jpg', // Makeup tools
-	'src/assets/b5.jpg', // Professional makeup
+	B1, // Makeup application
+	B2, // Bridal makeup
+	B3, // Eye makeup
+	B4, // Makeup tools
+	b5, // Professional makeup
 ];
 
 // Props:
