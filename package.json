@@ -2,8 +2,20 @@
   "name": "beautyapp",
   "private": true,
   "version": "0.0.0",
+<<<<<<< HEAD
 
   "homepage": "http://paakis22.github.io/beautybarlour",
+=======
+<<<<<<< HEAD
+  "homepage": "http://paakis22.github.io/mshop",
+=======
+<<<<<<< HEAD
+  "homepage": "http://paakis22.github.io/beautybarlour",
+=======
+  "homepage": "http://paakis22.github.io/Bshop",
+>>>>>>> cf3beed200a62d5bfb95ba6ad8de5bb4b85fcb92
+>>>>>>> a8c58136d080a824f7901211ca915eda10bdf933
+>>>>>>> 133b64c5f38f51bffdea56736335fedd614532e2
   "type": "module",
   "scripts": {
     "dev": "vite",
